@@ -324,7 +324,7 @@ function LinkField({ value, statusApi }: LinkFieldProps) {
                 text: text,
                 radius: 0.0, // 0.0 to 0.5
                 ecLevel: 'H', // L, M, Q, H
-                fill: '#536DFE', // foreground color
+                fill: '#000000', // foreground color
                 background: null, // color or null for transparent
                 size: 300 // in pixels
               }, canvas);            
